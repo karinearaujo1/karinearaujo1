@@ -1,7 +1,7 @@
 ## Hi, my name is Karine! 
 
 - :hammer::wrench: Perfil em construção... 
-- 🔭 Estudante de desenvolvimento e de DevOps;
+- 🔭 Estudante de desenvolvimento de sistemas e cybersegurança;
 - 🌱 Estudando HTML,CSS,JavaScript,Git, Azure e muito mais.
 
 <div align="center">
