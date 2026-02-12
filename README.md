@@ -3,7 +3,7 @@
 - :hammer::wrench: Profile in progress... 
 - 🔭 Student of systems development and cybersecurity;
 - 🌱 Studying HTML,CSS,JavaScript,Git,Azure and more;
-- 💼 Looking for opportunities in IT areas;
+- 💼 Experienced in DevOps and Release Management. Looking for opportunities in IT areas;
 - 🔵🟣  Here you can find my projects, studies and contributions.
 
 
