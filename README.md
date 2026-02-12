@@ -3,6 +3,7 @@
 - :hammer::wrench: Profile in progress... 
 - 🔭 Student of systems development and cybersecurity;
 - 🌱 Studying HTML,CSS,JavaScript,Git,Azure and more;
+- 💼 Looking for opportunities in IT areas;
 - 🔵🟣  Here you can find my projects, studies and contributions.
 
 
@@ -22,7 +23,8 @@
   ##
 
   <div>
-   
+
+
 
   <a href = "mailto:araujokarine62@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/karine-ara%C3%BAjo-8ba355155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -33,4 +35,9 @@
   </div
 
 ![Snake animation](https://github.com/karinearaujo1/karinearaujo1/blob/output/snake.svg)
+
+## 📊 Estatísticas
+
+![Karine's GitHub stats](https://github-readme-stats.vercel.app/api?username=karinearaujo1&show_icons=true&theme=synthwave)
+
 
