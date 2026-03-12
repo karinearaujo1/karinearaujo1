@@ -40,11 +40,19 @@
 ![Snake animation](https://github.com/karinearaujo1/karinearaujo1/blob/output/snake.svg)
 
 
-## 📊 GitHub Statistics  
 
+# 📊 GitHub Stats
+
+
+<!-- Estatísticas principais -->  
 ![Karine's GitHub stats](https://github-readme-stats.vercel.app/api?username=karinearaujo1&show_icons=true&theme=radical)
 
+<!-- Linguagens mais usadas -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karinearaujo1&layout=compact&theme=radical)
+
+<!-- Streak (dias seguidos de contribuição) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karinearaujo&theme=radical)
+
 
 <p align="center" style="margin: 2px 0;">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlsYmsydzB6ZjF6ZHp5a2JtNnc3ajY4dGFveTVjaGd2NG5udzJwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FBPSiAbbNUgWn6gj8A/giphy.gif" 
