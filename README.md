@@ -53,8 +53,7 @@
 <!-- Streak (dias seguidos de contribuição) -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karinearaujo&theme=radical)
 
-<!-- Visitantes (contador de visitas ao perfil  ) -->
-![Profile views](https://komarev.com/ghpvc/?username=karinearaujo&color=red)
+
 
 
 
