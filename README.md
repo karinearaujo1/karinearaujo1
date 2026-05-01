@@ -5,7 +5,7 @@
 </p>
 
 - :hammer::wrench: Profile in progress... 
-- 🔭 Student of Systems Analysis and Development and Cybersecurity;
+- 🔭 Student of Systems Analysis and Development and Quality Assurance;
 - 🌱 Studying HTML,CSS,JavaScript,Git,Azure and more;
 - 💼 Experienced in DevOps and Release Management. Looking for opportunities in IT areas;
 - 🔵🟣  Here you can find my projects, studies and contributions.
