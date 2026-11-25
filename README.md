@@ -1,14 +1,14 @@
-## Hi, my name is Karine!! 😄 
+## <p align="center"> <img width="45" height="45" alt="giphy" src="https://github.com/user-attachments/assets/53265cdc-30c3-4e69-83ce-f1ff98cf5e19" />  Hi, my name is Karine!! 
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBlZDVxdGdqbXpnam5sbzgycG12ZnVma212MG0yZml0a3V3MmFzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RIZpkx52VBnQo60wX6/giphy.gif" width="200" height="200" alt="rabbit hello" />
-</p>
+##  About Me:
 
 - :hammer::wrench: Profile in progress... 
 - 🔭 Student of Systems Analysis and Development and Quality Assurance;
 - 🌱 Studying HTML,CSS,JavaScript,Git,Azure and more;
 - 💼 Experienced in DevOps and Release Management. Looking for opportunities in IT areas;
 - 🔵🟣  Here you can find my projects, studies and contributions.
+
+##
 
 <div style="display: inline_block"><br>
 
@@ -43,36 +43,25 @@
 
 # 📊 GitHub Stats
 
+<table border="0">
+  <tr>
+    <td valign="top">
+      <!-- Estatísticas principais -->
+      <img src="https://github-readme-stats.vercel.app/api?username=karinearaujo1&show_icons=true&theme=radical" alt="Karine's GitHub stats" />
+      <br>
+      <!-- Linguagens mais usadas -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinearaujo1&layout=compact&theme=radical" alt="Top Langs" />
+      <br>
+      <!-- Streak (dias seguidos de contribuição) -->
+      <img src="https://streak-stats.demolab.com/?user=karinearaujo1&theme=radical" alt="GitHub Streak" />
+    </td>
+    <td valign="top">
+      <!-- Imagem do Pinterest -->
+      <img src="assets/imagem.jpg" width="300" alt="Imagem decorativa" />
+    </td>
+  </tr>
+</table>
 
-<!-- Estatísticas principais -->  
-![Karine's GitHub stats](https://github-readme-stats.vercel.app/api?username=karinearaujo1&show_icons=true&theme=radical)
-
-<!-- Linguagens mais usadas -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karinearaujo1&layout=compact&theme=radical)
-
-<!-- Streak (dias seguidos de contribuição) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karinearaujo&theme=radical)
+<!--Imagens para personalizar o perfil -->
 
 
-
-
-
-<p align="center" style="margin: 2px 0;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlsYmsydzB6ZjF6ZHp5a2JtNnc3ajY4dGFveTVjaGd2NG5udzJwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FBPSiAbbNUgWn6gj8A/giphy.gif" 
-       width="400" height="400" alt="line" />
-</p>
-
-<p align="center" style="margin: 2px 0;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHBuazZiNHE5bDVjd240NGdxbGE2bmdhY2p3YmYzY2x3Y2dnbTltaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/Gg1jDjAFWRPFvpI9oV/giphy.gif" 
-       width="300" height="300" alt="thanks" />
-</p>
-
-<p align="center" style="margin: 2px 0;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2F3b3RzYTF4bHU3dzg4b2thd3VnZG15eGt3NGU1ajIxNG9qczZ3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PpcBClNjslC8AddenY/giphy.gif" 
-       width="200" height="200" alt="heart" />
-</p>
-
-<p align="center" style="margin: 2px 0;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlsYmsydzB6ZjF6ZHp5a2JtNnc3ajY4dGFveTVjaGd2NG5udzJwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FBPSiAbbNUgWn6gj8A/giphy.gif" 
-       width="400" height="400" alt="line" />
-</p>
